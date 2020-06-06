@@ -1,5 +1,10 @@
 # Google Earth
-28 Apr 2008 archive
+
+[My Saved Places](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/suvozit/Google-Earth/master/My%20Saved%20Places.geojson)
+
+![](./22-02-09_1307%20teach.png)
+
+---
 
 ![](./18-05-08_2304%20sitsHOUSE2.jpg)
 
